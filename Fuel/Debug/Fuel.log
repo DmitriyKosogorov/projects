@@ -1,0 +1,29 @@
+﻿  Fuel.cpp
+C:\Users\User\source\repos\Fuel\Fuel.cpp(100,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Fuel\Fuel.cpp(114,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Fuel\Fuel.cpp(124,13): warning C4244:  инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\Fuel\Fuel.cpp(124,13): warning C4244:         with
+C:\Users\User\source\repos\Fuel\Fuel.cpp(124,13): warning C4244:         [
+C:\Users\User\source\repos\Fuel\Fuel.cpp(124,13): warning C4244:             _Ty=double
+C:\Users\User\source\repos\Fuel\Fuel.cpp(124,13): warning C4244:         ]
+C:\Users\User\source\repos\Fuel\Fuel.cpp(127,16): warning C4244:  =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\Fuel\Fuel.cpp(127,16): warning C4244:         with
+C:\Users\User\source\repos\Fuel\Fuel.cpp(127,16): warning C4244:         [
+C:\Users\User\source\repos\Fuel\Fuel.cpp(127,16): warning C4244:             _Ty=double
+C:\Users\User\source\repos\Fuel\Fuel.cpp(127,16): warning C4244:         ]
+C:\Users\User\source\repos\Fuel\Fuel.cpp(131,16): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Fuel\Fuel.cpp(133,11): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Fuel\Fuel.cpp(138,9): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Fuel\Fuel.cpp(140,23): warning C4244:  =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\Fuel\Fuel.cpp(140,23): warning C4244:         with
+C:\Users\User\source\repos\Fuel\Fuel.cpp(140,23): warning C4244:         [
+C:\Users\User\source\repos\Fuel\Fuel.cpp(140,23): warning C4244:             _Ty=double
+C:\Users\User\source\repos\Fuel\Fuel.cpp(140,23): warning C4244:         ]
+C:\Users\User\source\repos\Fuel\Fuel.cpp(147,23): warning C4244:  =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\User\source\repos\Fuel\Fuel.cpp(147,23): warning C4244:         with
+C:\Users\User\source\repos\Fuel\Fuel.cpp(147,23): warning C4244:         [
+C:\Users\User\source\repos\Fuel\Fuel.cpp(147,23): warning C4244:             _Ty=double
+C:\Users\User\source\repos\Fuel\Fuel.cpp(147,23): warning C4244:         ]
+C:\Users\User\source\repos\Fuel\Fuel.cpp(9,6): warning C4101:  b: неиспользованная локальная переменная
+C:\Users\User\source\repos\Fuel\Fuel.cpp(9,9): warning C4101:  c: неиспользованная локальная переменная
+  Fuel.vcxproj -> C:\Users\User\source\repos\Fuel\Debug\Fuel.exe
